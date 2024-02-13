@@ -1,0 +1,452 @@
+-------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\User\Documents\GRAD STATS LAB SEM 2\Soc211 Assignments\Re
+> search Project Assignment 2\Research_Project_2.log
+  log type:  text
+ opened on:  12 Feb 2024, 15:25:07
+EDUC      MAJOR2    NATENVIR  CONEDUC   MAJORCOL  YEAR
+DEGREE    RACE      NATEDUC   RACDIF3   COLSCI    ID_
+MAJOR1    INCOME    NATRACE   COLDEG1   INTEDUC
+
+Contains data from C:\Users\User\Documents\GRAD STATS LAB SEM 2\Soc211 Assignme
+> nts\Research Project Assignment 2\Research Project 2 GSS Stata.dta
+ Observations:        72,390                  
+    Variables:            17                  8 Feb 2024 18:30
+-------------------------------------------------------------------------------
+Variable      Storage   Display    Value
+    name         type    format    label      Variable label
+-------------------------------------------------------------------------------
+EDUC            float   %66.0g     GSP001X    highest year of school completed
+DEGREE          float   %66.0g     GSP002X    r's highest degree
+MAJOR1          float   %66.0g     GSP003X    college major 1
+MAJOR2          float   %66.0g     GSP004X    college major 2
+RACE            float   %66.0g     GSP005X    race of respondent
+INCOME          float   %66.0g     GSP006X    total family income
+NATENVIR        float   %66.0g     GSP007X    improving & protecting
+                                                environment
+NATEDUC         float   %66.0g     GSP008X    improving nations education
+                                                system
+NATRACE         float   %66.0g     GSP009X    improving the conditions of
+                                                blacks
+CONEDUC         float   %66.0g     GSP010X    confidence in education
+RACDIF3         float   %66.0g     GSP011X    differences due to lack of
+                                                education
+COLDEG1         float   %66.0g     GSP012X    the highest degree r have earned
+MAJORCOL        float   %66.0g     GSP013X    the field of degree r earned
+COLSCI          float   %66.0g     GSP014X    r has taken any college-level sci
+                                                course
+INTEDUC         float   %66.0g     GSP015X    interested in local school issues
+YEAR            float   %9.0g                 GSS year for this respondent
+ID_             float   %9.0g                 Respondent id number
+-------------------------------------------------------------------------------
+Sorted by: 
+
+      interested in local school issues |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                        Very interested |      3,949       44.52       44.52
+                  Moderately interested |      3,639       41.02       85.54
+                  Not at all interested |      1,283       14.46      100.00
+----------------------------------------+-----------------------------------
+                                  Total |      8,871      100.00
+
+-------------------------------------------------------------------------------
+ID_                                                        Respondent id number
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+
+                 Range: [1,4510]                      Units: 1
+         Unique values: 4,510                     Missing .: 0/72,390
+
+                  Mean:  1241.8
+             Std. dev.: 912.273
+
+           Percentiles:     10%       25%       50%       75%       90%
+                            214       534      1083      1722      2533
+
+   GSS year |
+   for this |
+ respondent |      Freq.     Percent        Cum.
+------------+-----------------------------------
+       1972 |      1,613        2.23        2.23
+       1973 |      1,504        2.08        4.31
+       1974 |      1,484        2.05        6.36
+       1975 |      1,490        2.06        8.41
+       1976 |      1,499        2.07       10.48
+       1977 |      1,530        2.11       12.60
+       1978 |      1,532        2.12       14.71
+       1980 |      1,468        2.03       16.74
+       1982 |      1,860        2.57       19.31
+       1983 |      1,599        2.21       21.52
+       1984 |      1,473        2.03       23.56
+       1985 |      1,534        2.12       25.67
+       1986 |      1,470        2.03       27.71
+       1987 |      1,819        2.51       30.22
+       1988 |      1,481        2.05       32.26
+       1989 |      1,537        2.12       34.39
+       1990 |      1,372        1.90       36.28
+       1991 |      1,517        2.10       38.38
+       1993 |      1,606        2.22       40.60
+       1994 |      2,992        4.13       44.73
+       1996 |      2,904        4.01       48.74
+       1998 |      2,832        3.91       52.65
+       2000 |      2,817        3.89       56.55
+       2002 |      2,765        3.82       60.36
+       2004 |      2,812        3.88       64.25
+       2006 |      4,510        6.23       70.48
+       2008 |      2,023        2.79       73.27
+       2010 |      2,044        2.82       76.10
+       2012 |      1,974        2.73       78.82
+       2014 |      2,538        3.51       82.33
+       2016 |      2,867        3.96       86.29
+       2018 |      2,348        3.24       89.53
+       2021 |      4,032        5.57       95.10
+       2022 |      3,544        4.90      100.00
+------------+-----------------------------------
+      Total |     72,390      100.00
+
+-------------------------------------------------------------------------------
+YEAR                                               GSS year for this respondent
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+
+                 Range: [1972,2022]                   Units: 1
+         Unique values: 34                        Missing .: 0/72,390
+
+                  Mean: 1997.72
+             Std. dev.:   15.11
+
+           Percentiles:     10%       25%       50%       75%       90%
+                           1976      1985      1998      2010      2021
+
+-------------------------------------------------------------------------------
+EDUC                                           highest year of school completed
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+                 Label: GSP001X, but 20 nonmissing values are not labeled
+
+                 Range: [0,20]                        Units: 1
+         Unique values: 21                        Missing .: 0/72,390
+       Unique mv codes: 2                        Missing .*: 263/72,390
+
+              Examples: 11    
+                        12    
+                        14    
+                        16    
+
+-------------------------------------------------------------------------------
+NATENVIR                                     improving & protecting environment
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+                 Label: GSP007X
+
+                 Range: [1,3]                         Units: 1
+         Unique values: 3                         Missing .: 0/72,390
+       Unique mv codes: 4                        Missing .*: 33,243/72,390
+
+            Tabulation: Freq.   Numeric  Label
+                       24,244         1  TOO LITTLE
+                       11,388         2  ABOUT RIGHT
+                        3,515         3  TOO MUCH
+                        1,664        .d  
+                       31,471        .i  
+                          105        .n  
+                            3        .s  
+
+-------------------------------------------------------------------------------
+RACE                                                         race of respondent
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+                 Label: GSP005X
+
+                 Range: [1,3]                         Units: 1
+         Unique values: 3                         Missing .: 0/72,390
+       Unique mv codes: 1                        Missing .*: 107/72,390
+
+            Tabulation: Freq.   Numeric  Label
+                       57,657         1  White
+                       10,215         2  Black
+                        4,411         3  Other
+                          107        .i  
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+        YEAR |     72,390    1997.716       15.11       1972       2022
+        EDUC |     72,127    13.03463    3.182372          0         20
+    NATENVIR |     39,147    1.470483    .6547665          1          3
+        RACE |     72,283    1.263368    .5621899          1          3
+
+-------------------------------------------------------------------------------
+NATENVIR                                     improving & protecting environment
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+                 Label: GSP007X
+
+                 Range: [1,3]                         Units: 1
+         Unique values: 3                         Missing .: 0/72,390
+       Unique mv codes: 4                        Missing .*: 33,243/72,390
+
+            Tabulation: Freq.   Numeric  Label
+                       24,244         1  TOO LITTLE
+                       11,388         2  ABOUT RIGHT
+                        3,515         3  TOO MUCH
+                        1,664        .d  
+                       31,471        .i  
+                          105        .n  
+                            3        .s  
+
+-------------------------------------------------------------------------------
+NATENVIR                                     improving & protecting environment
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+                 Label: GSP007X
+
+                 Range: [1,3]                         Units: 1
+         Unique values: 3                         Missing .: 0/72,390
+       Unique mv codes: 4                        Missing .*: 33,243/72,390
+
+            Tabulation: Freq.   Numeric  Label
+                       24,244         1  TOO LITTLE
+                       11,388         2  ABOUT RIGHT
+                        3,515         3  TOO MUCH
+                        1,664        .d  
+                       31,471        .i  
+                          105        .n  
+                            3        .s  
+(start=1, width=1)
+(start=0, width=1)
+(start=1, width=1)
+(107 real changes made, 107 to missing)
+
+                     race of respondent |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                  White |     57,657       79.65       79.65
+                                  Black |     10,215       14.11       93.76
+                                  Other |      4,411        6.09       99.85
+                                      . |        107        0.15      100.00
+----------------------------------------+-----------------------------------
+                                  Total |     72,390      100.00
+(33,243 real changes made, 33,243 to missing)
+
+     improving & protecting environment |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                             TOO LITTLE |     24,244       33.49       33.49
+                            ABOUT RIGHT |     11,388       15.73       49.22
+                               TOO MUCH |      3,515        4.86       54.08
+                                      . |     33,243       45.92      100.00
+----------------------------------------+-----------------------------------
+                                  Total |     72,390      100.00
+(263 missing values generated)
+(14,883 real changes made)
+(21,401 real changes made)
+(35,929 real changes made)
+
+ Highest year of school |
+              completed |      Freq.     Percent        Cum.
+------------------------+-----------------------------------
+  Less than high school |     15,060       20.80       20.80
+     high school degree |     21,401       29.56       50.37
+Higher education degree |     35,929       49.63      100.00
+------------------------+-----------------------------------
+                  Total |     72,390      100.00
+
+     improving & protecting environment |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                             TOO LITTLE |     24,244       61.93       61.93
+                            ABOUT RIGHT |     11,388       29.09       91.02
+                               TOO MUCH |      3,515        8.98      100.00
+----------------------------------------+-----------------------------------
+                                  Total |     39,147      100.00
+
+          improving & |
+           protecting | Highest year of school completed
+          environment | Less than  high scho  Higher ed |     Total
+----------------------+---------------------------------+----------
+           TOO LITTLE |     4,530      7,176     12,538 |    24,244 
+          ABOUT RIGHT |     2,961      3,597      4,830 |    11,388 
+             TOO MUCH |       907      1,077      1,531 |     3,515 
+----------------------+---------------------------------+----------
+                Total |     8,398     11,850     18,899 |    39,147 
+
+   GSS year |
+   for this |
+ respondent |      Freq.     Percent        Cum.
+------------+-----------------------------------
+       1972 |      1,613        2.23        2.23
+       1973 |      1,504        2.08        4.31
+       1974 |      1,484        2.05        6.36
+       1975 |      1,490        2.06        8.41
+       1976 |      1,499        2.07       10.48
+       1977 |      1,530        2.11       12.60
+       1978 |      1,532        2.12       14.71
+       1980 |      1,468        2.03       16.74
+       1982 |      1,860        2.57       19.31
+       1983 |      1,599        2.21       21.52
+       1984 |      1,473        2.03       23.56
+       1985 |      1,534        2.12       25.67
+       1986 |      1,470        2.03       27.71
+       1987 |      1,819        2.51       30.22
+       1988 |      1,481        2.05       32.26
+       1989 |      1,537        2.12       34.39
+       1990 |      1,372        1.90       36.28
+       1991 |      1,517        2.10       38.38
+       1993 |      1,606        2.22       40.60
+       1994 |      2,992        4.13       44.73
+       1996 |      2,904        4.01       48.74
+       1998 |      2,832        3.91       52.65
+       2000 |      2,817        3.89       56.55
+       2002 |      2,765        3.82       60.36
+       2004 |      2,812        3.88       64.25
+       2006 |      4,510        6.23       70.48
+       2008 |      2,023        2.79       73.27
+       2010 |      2,044        2.82       76.10
+       2012 |      1,974        2.73       78.82
+       2014 |      2,538        3.51       82.33
+       2016 |      2,867        3.96       86.29
+       2018 |      2,348        3.24       89.53
+       2021 |      4,032        5.57       95.10
+       2022 |      3,544        4.90      100.00
+------------+-----------------------------------
+      Total |     72,390      100.00
+(12,120 real changes made)
+(15,662 real changes made)
+(13,151 real changes made)
+(14,154 real changes made)
+(17,303 real changes made)
+
+-------------------------------------------------------------------------------
+yearbrackets                                                      Grouped Years
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+                 Label: yearbrackets
+
+                 Range: [0,4]                         Units: 1
+         Unique values: 5                         Missing .: 0/72,390
+
+            Tabulation: Freq.   Numeric  Label
+                       12,120         0  Between 1972 and 1982
+                       15,662         1  Between 1982 and 1992
+                       13,151         2  Between 1992 and 2002
+                       14,154         3  Between 2002 and 2012
+                       17,303         4  After 2012
+
+                      |        GSS year for this respondent
+        Grouped Years |      1972       1973       1974       1975 |     Total
+----------------------+--------------------------------------------+----------
+Between 1972 and 1982 |     1,613      1,504      1,484      1,490 |    12,120 
+Between 1982 and 1992 |         0          0          0          0 |    15,662 
+Between 1992 and 2002 |         0          0          0          0 |    13,151 
+Between 2002 and 2012 |         0          0          0          0 |    14,154 
+           After 2012 |         0          0          0          0 |    17,303 
+----------------------+--------------------------------------------+----------
+                Total |     1,613      1,504      1,484      1,490 |    72,390 
+
+
+                      |        GSS year for this respondent
+        Grouped Years |      1976       1977       1978       1980 |     Total
+----------------------+--------------------------------------------+----------
+Between 1972 and 1982 |     1,499      1,530      1,532      1,468 |    12,120 
+Between 1982 and 1992 |         0          0          0          0 |    15,662 
+Between 1992 and 2002 |         0          0          0          0 |    13,151 
+Between 2002 and 2012 |         0          0          0          0 |    14,154 
+           After 2012 |         0          0          0          0 |    17,303 
+----------------------+--------------------------------------------+----------
+                Total |     1,499      1,530      1,532      1,468 |    72,390 
+
+
+                      |        GSS year for this respondent
+        Grouped Years |      1982       1983       1984       1985 |     Total
+----------------------+--------------------------------------------+----------
+Between 1972 and 1982 |         0          0          0          0 |    12,120 
+Between 1982 and 1992 |     1,860      1,599      1,473      1,534 |    15,662 
+Between 1992 and 2002 |         0          0          0          0 |    13,151 
+Between 2002 and 2012 |         0          0          0          0 |    14,154 
+           After 2012 |         0          0          0          0 |    17,303 
+----------------------+--------------------------------------------+----------
+                Total |     1,860      1,599      1,473      1,534 |    72,390 
+
+
+                      |        GSS year for this respondent
+        Grouped Years |      1986       1987       1988       1989 |     Total
+----------------------+--------------------------------------------+----------
+Between 1972 and 1982 |         0          0          0          0 |    12,120 
+Between 1982 and 1992 |     1,470      1,819      1,481      1,537 |    15,662 
+Between 1992 and 2002 |         0          0          0          0 |    13,151 
+Between 2002 and 2012 |         0          0          0          0 |    14,154 
+           After 2012 |         0          0          0          0 |    17,303 
+----------------------+--------------------------------------------+----------
+                Total |     1,470      1,819      1,481      1,537 |    72,390 
+
+
+                      |        GSS year for this respondent
+        Grouped Years |      1990       1991       1993       1994 |     Total
+----------------------+--------------------------------------------+----------
+Between 1972 and 1982 |         0          0          0          0 |    12,120 
+Between 1982 and 1992 |     1,372      1,517          0          0 |    15,662 
+Between 1992 and 2002 |         0          0      1,606      2,992 |    13,151 
+Between 2002 and 2012 |         0          0          0          0 |    14,154 
+           After 2012 |         0          0          0          0 |    17,303 
+----------------------+--------------------------------------------+----------
+                Total |     1,372      1,517      1,606      2,992 |    72,390 
+
+
+                      |        GSS year for this respondent
+        Grouped Years |      1996       1998       2000       2002 |     Total
+----------------------+--------------------------------------------+----------
+Between 1972 and 1982 |         0          0          0          0 |    12,120 
+Between 1982 and 1992 |         0          0          0          0 |    15,662 
+Between 1992 and 2002 |     2,904      2,832      2,817          0 |    13,151 
+Between 2002 and 2012 |         0          0          0      2,765 |    14,154 
+           After 2012 |         0          0          0          0 |    17,303 
+----------------------+--------------------------------------------+----------
+                Total |     2,904      2,832      2,817      2,765 |    72,390 
+
+
+                      |        GSS year for this respondent
+        Grouped Years |      2004       2006       2008       2010 |     Total
+----------------------+--------------------------------------------+----------
+Between 1972 and 1982 |         0          0          0          0 |    12,120 
+Between 1982 and 1992 |         0          0          0          0 |    15,662 
+Between 1992 and 2002 |         0          0          0          0 |    13,151 
+Between 2002 and 2012 |     2,812      4,510      2,023      2,044 |    14,154 
+           After 2012 |         0          0          0          0 |    17,303 
+----------------------+--------------------------------------------+----------
+                Total |     2,812      4,510      2,023      2,044 |    72,390 
+
+
+                      |        GSS year for this respondent
+        Grouped Years |      2012       2014       2016       2018 |     Total
+----------------------+--------------------------------------------+----------
+Between 1972 and 1982 |         0          0          0          0 |    12,120 
+Between 1982 and 1992 |         0          0          0          0 |    15,662 
+Between 1992 and 2002 |         0          0          0          0 |    13,151 
+Between 2002 and 2012 |         0          0          0          0 |    14,154 
+           After 2012 |     1,974      2,538      2,867      2,348 |    17,303 
+----------------------+--------------------------------------------+----------
+                Total |     1,974      2,538      2,867      2,348 |    72,390 
+
+
+                      |   GSS year for this
+                      |      respondent
+        Grouped Years |      2021       2022 |     Total
+----------------------+----------------------+----------
+Between 1972 and 1982 |         0          0 |    12,120 
+Between 1982 and 1992 |         0          0 |    15,662 
+Between 1992 and 2002 |         0          0 |    13,151 
+Between 2002 and 2012 |         0          0 |    14,154 
+           After 2012 |     4,032      3,544 |    17,303 
+----------------------+----------------------+----------
+                Total |     4,032      3,544 |    72,390 
+      name:  <unnamed>
+       log:  C:\Users\User\Documents\GRAD STATS LAB SEM 2\Soc211 Assignments\Re
+> search Project Assignment 2\Research_Project_2.log
+  log type:  text
+ closed on:  12 Feb 2024, 15:25:30
+-------------------------------------------------------------------------------
