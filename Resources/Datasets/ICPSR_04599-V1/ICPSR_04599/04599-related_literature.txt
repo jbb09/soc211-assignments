@@ -1,0 +1,559 @@
+Bibliography
+National Household Education Survey, 2005
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 4599. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Barnett, W. Steven; Nores, Milagros, "Estimated Participation and Hours
+in Early Care and Education by Type of Arrangement and Income at Ages 2 to
+4 in 2010." New Brunswick, NJ: National Institute for Early Education
+Research, Apr 26, 2012.
+Abstract: https://eric.ed.gov/?id=ED541839
+An estimation of the early care and education arrangements and hours of 2-
+through 4-year-old children in 2010 by age, income, and child's language,
+based on government program data, the 2005 National Household Education
+Survey, and the 2004 and 2010 October Supplements to the Current Population
+Survey
+
+2. Belfield, Clive R., "Early Childhood Care and Education: Enrollment
+Patterns and Expenditures Over the Decade 1995-2005." New Brunswick, NJ:
+National Institute for Early Education Research, Dec 2010.
+An examination of patterns of early childhood care and education
+participation and expenditures and their determinants from 1995-2005, based
+on data from the nationally representative 1995, 2001, and 2005 National
+Household Education Surveys
+
+3. Belfield, Clive R., "Early childhood care and education: Enrollment
+patterns and expenditures." In Pianta, Robert C., Handbook of Early
+Childhood Education. 22 - 46, New York, NY: Guilford Press,2012.
+An examination of patterns of early childhood care and education
+participation and expenditures and their determinants from 1995-2005, based
+on data from the nationally representative 1995, 2001, and 2005 National
+Household Education Surveys
+
+4. Breit-Smith, A.; Cabell, S.Q.; Justice, L.M., "Home literacy experiences
+and early childhood disability: A descriptive study using the  national
+household education surveys (NHES) program database." Language, Speech, and
+Hearing Services in Schools. Jan 2010, 41, (1), 96 - 107. DOI:
+10.1044/0161-1461(2009/08-0048)
+An examination of patterns of early childhood care and education
+participation and expenditures and their determinants from 1995-2005, based
+on data from the nationally representative 1995, 2001, and 2005 National
+Household Education Surveys
+
+5. Brown, Jessica H.; Herbst, Chris M., "Child Care over the Business
+Cycle." IZA Discussion Paper No. 14048. Bonn, Germany: IZA Institute of
+Labor Economics, Jan 2021.
+Full text PDF: http://ftp.iza.org/dp14048.pdf
+
+6. Burgess, Kimberly; Chien, Nina C.; Morrissey, Taryn; Swenson, Kendall,
+"Trends in the Use of Early Care and Education, 1995-2011: Descriptive
+Analysis of Child Care Arrangements from National Survey Data." Washington,
+DC: U.S. Department of Health and Human Services, Office of the Assistant
+Secretary for Planning and Evaluation, Mar 2014.
+Abstract: https://aspe.hhs.gov/pdf-report/trends-use-early-care-and-education-1995-2011-descriptive-analysis-child-care-arrangements-national-survey-data
+This report uses multiple years of data from two data sources--the Current
+Population Survey (CPS, 1995-2011) and the National Household Education
+Survey (NHES, 1995, 2001, 2005)--to examine trends in early care and
+education arrangements for young children over the past few decades.
+Specifically, this report seeks to address the two main questions: 1. What
+types of non-parental early care and education (ECE) arrangements were
+children enrolled in between 1995 and 2011, and how did enrollment patterns
+change over that period? a. What are the trends in the use of center and
+non-center ECE? b. What are the trends in the use of private ECE (with a
+family payment) and public ECE (without a family payment)? c. What are the
+trends in the use of full-time and part-time preschool for three- and four-
+year-old children? 2. How do rates of participation in ECE and trends in
+the use of various ECE arrangements differ based on demographic
+characteristics, particularly: a. Child age, b. Family income, c. Maternal
+demographic characteristics: maternal employment, education, marital
+status, and nativity, d. Race/ethnicity (author abstract)
+
+7. Carver, Priscilla R.; Iruka, Iheoma U., "After-School Programs and
+Activities: 2005." National Household Education Surveys Program of 2005.
+E.D. TAB. NCES 2006, Washington, DC: U.S. Department of Education, National
+Center for Education Statistics, May 2006.
+Abstract: https://aspe.hhs.gov/pdf-report/trends-use-early-care-and-education-1995-2011-descriptive-analysis-child-care-arrangements-national-survey-data
+This report uses multiple years of data from two data sources--the Current
+Population Survey (CPS, 1995-2011) and the National Household Education
+Survey (NHES, 1995, 2001, 2005)--to examine trends in early care and
+education arrangements for young children over the past few decades.
+Specifically, this report seeks to address the two main questions: 1. What
+types of non-parental early care and education (ECE) arrangements were
+children enrolled in between 1995 and 2011, and how did enrollment patterns
+change over that period? a. What are the trends in the use of center and
+non-center ECE? b. What are the trends in the use of private ECE (with a
+family payment) and public ECE (without a family payment)? c. What are the
+trends in the use of full-time and part-time preschool for three- and four-
+year-old children? 2. How do rates of participation in ECE and trends in
+the use of various ECE arrangements differ based on demographic
+characteristics, particularly: a. Child age, b. Family income, c. Maternal
+demographic characteristics: maternal employment, education, marital
+status, and nativity, d. Race/ethnicity (author abstract)
+
+8. Carver, Priscilla R.; Iruka, Iheoma U., "National Household Education
+Surveys Program of 2005: After-School Programs and Activities: 2005." E.D.
+TAB, NCES. Washington, DC: National Center for Education Statistics, May
+2006.
+Full text PDF: nces.ed.gov/pubs2006/2006076.pdf
+An examination of data from the After-School Programs and Activities survey
+on the participation of kindergarteners through eighth graders in after
+school programs, with discussion of the survey's design, the different
+types of after school care, their participation rates, and the expenses
+surrounding various types of after school care
+
+9. Chillis, Jimmy L., "A psychosocial interaction study of adulthood
+demographics and non-compulsory education, learning, training, and
+development participation using the National Household Education Survey."
+dissertation, University of North Texas, 2013.
+Full text PDF: nces.ed.gov/pubs2006/2006076.pdf
+An examination of data from the After-School Programs and Activities survey
+on the participation of kindergarteners through eighth graders in after
+school programs, with discussion of the survey's design, the different
+types of after school care, their participation rates, and the expenses
+surrounding various types of after school care
+
+10. Cho, Rosa Minhyo, "Examining the relationship between immigrant status
+and after-school care usage of young children in the US." International
+Review of Public Administration. 2014, 19, (4), 329 - 346. DOI:
+10.1080/12294659.2014.966993
+Full text PDF: nces.ed.gov/pubs2006/2006076.pdf
+An examination of data from the After-School Programs and Activities survey
+on the participation of kindergarteners through eighth graders in after
+school programs, with discussion of the survey's design, the different
+types of after school care, their participation rates, and the expenses
+surrounding various types of after school care
+
+11. Costanzo, Molly A.; Magnuson, Katherine, "How does disability influence
+child care arrangements for young children? An examination using the NHES
+ECPP." Children and Youth Services Review. 2019, 99, 210 - 225. DOI:
+10.1016/j.childyouth.2019.02.019
+Full text PDF: nces.ed.gov/pubs2006/2006076.pdf
+An examination of data from the After-School Programs and Activities survey
+on the participation of kindergarteners through eighth graders in after
+school programs, with discussion of the survey's design, the different
+types of after school care, their participation rates, and the expenses
+surrounding various types of after school care
+
+12. Cruce, Ty M.; Hillman, Nicholas W., "Preparing for the Silver Tsunami:
+The demand for higher education among older adults." Research in Higher
+Education. Sep 2012, 53, (6), 593 - 613. DOI: 10.1007/s11162-011-9249-9
+Full text PDF: nces.ed.gov/pubs2006/2006076.pdf
+An examination of data from the After-School Programs and Activities survey
+on the participation of kindergarteners through eighth graders in after
+school programs, with discussion of the survey's design, the different
+types of after school care, their participation rates, and the expenses
+surrounding various types of after school care
+
+13. Ertas, N.; Shields, S., "Child care subsidies and care arrangements of
+low-income parents." Children and Youth Services Review. Jan 2012, 34, (1),
+179 - 185. DOI: 10.1016/j.childyouth.2011.09.014
+Full text PDF: nces.ed.gov/pubs2006/2006076.pdf
+An examination of data from the After-School Programs and Activities survey
+on the participation of kindergarteners through eighth graders in after
+school programs, with discussion of the survey's design, the different
+types of after school care, their participation rates, and the expenses
+surrounding various types of after school care
+
+14. Evans, Daniel J., "Fact Sheet: Percent of All Non-Parental Child Care
+Hours by Type of Child Care." Seattle, WA: University of Washington, Human
+Services Policy Center, 2006.
+A discussion of the child care arrangements of children under 6 years, and
+the proportion of all non-parental care hours spent with either care
+centers, paid care from non-relatives, or family, friend, and neighbor
+care, based on results from the National Household Education Survey
+
+15. Grady, Sarah; Bielick, Stacey; Aud, Susan, "Trends in the Use of School
+Choice: 1993 to 2007, Statistical Analysis Report (NCES 2010-004)."
+Washington, DC: U.S. Department of Education, Institute of Education
+Sciences, National Center for Education Statistics, 2010.
+Full text: https://eric.ed.gov/?id=ED509074
+Full text PDF: https://files.eric.ed.gov/fulltext/ED509074.pdf
+
+16. Greenberg, J.P., "Determinants of after-school programming for school-
+age immigrant children." Children and Schools. Apr 2013, 35, (2), 101 -
+111. DOI: 10.1093/cs/cdt002
+Full text: https://eric.ed.gov/?id=ED509074
+Full text PDF: https://files.eric.ed.gov/fulltext/ED509074.pdf
+
+17. Greenberg, Joy Pastan, "Assessing policy effects on enrollment in early
+childhood education and care." Social Service Review. Sep 2010, 84, (3),
+461 - 490. DOI: 10.1086/655822
+Full text: https://eric.ed.gov/?id=ED509074
+Full text PDF: https://files.eric.ed.gov/fulltext/ED509074.pdf
+
+18. Greenberg, Joy Pastan, "Early Childhood Education and Care Policies and
+Children's Care Arrangements from 1991-2005: Evidence from the National
+Household Education Survey." Dissertation, Columbia University, 2007.
+Full text: https://eric.ed.gov/?id=ED509074
+Full text PDF: https://files.eric.ed.gov/fulltext/ED509074.pdf
+
+19. Greenberg, Joy Pastan, "The impact of maternal education on children's
+enrollment in early childhood education and care." Children and Youth
+Services Review. Jul 2011, 33, (7), 1049 - 1057. DOI:
+10.1016/j.childyouth.2011.01.016
+Full text: https://eric.ed.gov/?id=ED509074
+Full text PDF: https://files.eric.ed.gov/fulltext/ED509074.pdf
+
+20. Greenberg, Joy Pastan; Kahn, Jessica M., "The influence of immigration
+status on early childhood education and care enrollment." Journal of Early
+Childhood Research. Feb 2011, 9, (1), 20 - 35. DOI:
+10.1177/1476718X10366618
+Full text: https://eric.ed.gov/?id=ED509074
+Full text PDF: https://files.eric.ed.gov/fulltext/ED509074.pdf
+
+21. Greene, Kaylin M.; Hynes, Kathryn; Doyle, Emily A., "Self-care among
+school-aged children of immigrants." Children and Youth Services Review.
+2011, 33, 783 - 789. DOI: 10.1016/j.childyouth.2010.11.023
+Full text: https://eric.ed.gov/?id=ED509074
+Full text PDF: https://files.eric.ed.gov/fulltext/ED509074.pdf
+
+22. Herbst, Chris M., "The Impact of Quality Rating and Improvement Systems
+on Families' Child Care Choices and the Supply of Child Care Labor." IZA
+Discussion Paper. 10383, Bonn, Germany: IZA Institute for the Study of
+Labor, Nov 2016.
+Full text PDF: http://ftp.iza.org/dp10383.pdf
+Quality Rating and Improvement Systems (QRIS) are increasingly deployed by
+states to monitor and improve the quality of non-parental child care
+settings. By making information on program quality accessible to the
+public, QRIS attempts to alter parental preferences for quality-related
+attributes and encourage competition between providers. This paper draws on
+a variety of datasets to empirically characterize the way in which families
+and providers respond to the enactment of QRIS. Specifically, it exploits
+the differential timing in states' QRIS roll-out to examine two sets of
+outcomes: (i) families' child care choices and maternal employment and (ii)
+the supply and compensation of child care labor. Estimates from difference-
+in-differences models reveal several noteworthy findings. First, although
+QRIS induces families to shift from parental to non-parental care,
+economically disadvantaged families are more likely to use informal care,
+while their advantaged counterparts are more likely to use formal care.
+Second, QRIS increases the supply of high-skilled labor, particularly
+within the center-based sector. Third, all but the most highly-skilled
+child care workers experience rising compensation levels but also greater
+turnover. Finally, states that administer a wage compensation program
+alongside their QRIS experience larger increases in child care supply and
+compensation as well as lower turnover rates than states operating a QRIS
+in isolation. (author abstract)
+
+23. Herbst, Chris M., "The impact of quality rating and improvement systems
+on families' child care choices and the supply of child care labor." Labour
+Economics. 2018, 54, 172 - 190. DOI: 10.1016/j.labeco.2018.08.007
+Full text PDF: http://ftp.iza.org/dp10383.pdf
+Quality Rating and Improvement Systems (QRIS) are increasingly deployed by
+states to monitor and improve the quality of non-parental child care
+settings. By making information on program quality accessible to the
+public, QRIS attempts to alter parental preferences for quality-related
+attributes and encourage competition between providers. This paper draws on
+a variety of datasets to empirically characterize the way in which families
+and providers respond to the enactment of QRIS. Specifically, it exploits
+the differential timing in states' QRIS roll-out to examine two sets of
+outcomes: (i) families' child care choices and maternal employment and (ii)
+the supply and compensation of child care labor. Estimates from difference-
+in-differences models reveal several noteworthy findings. First, although
+QRIS induces families to shift from parental to non-parental care,
+economically disadvantaged families are more likely to use informal care,
+while their advantaged counterparts are more likely to use formal care.
+Second, QRIS increases the supply of high-skilled labor, particularly
+within the center-based sector. Third, all but the most highly-skilled
+child care workers experience rising compensation levels but also greater
+turnover. Finally, states that administer a wage compensation program
+alongside their QRIS experience larger increases in child care supply and
+compensation as well as lower turnover rates than states operating a QRIS
+in isolation. (author abstract)
+
+24. Iruka, I. U.; Carver, P. R., "Initial Results from the 2005 NHES Early
+Childhood Program Participation Survey." National Household Education
+Surveys Program of 2005. NCES 2006-075, Washington, DC: United States
+Department of Education, National Center for Education Statistics,.
+Full text PDF: http://nces.ed.gov/pubs2006/2006075.pdf
+
+25. Iruka, Iheoma U.; Carver, Priscilla R., "National Household Education
+Surveys Program of 2005: Initial Results from the 2005 NHES Early Childhood
+Program Participation Survey." E.D. TAB, NCES. 2006-075, Washington, DC:
+National Center for Education Statistics, May 2006.
+Full text PDF: nces.ed.gov/pubs2006/2006075.pdf
+A presentation of selected data on the child care and education
+arrangements of infants, toddlers, and preschool children based on the
+Early Childhood Program Participation Survey component of the nationally
+representative 2005 National Household Education Survey (NHES)
+
+26. Kahn, Jessica M.; Greenberg, Joy Pastan, "Factors predicting early
+childhood education and care use by immigrant families." Social Science
+Research. Jul 2010, 39, (4), 642 - 651. DOI:
+10.1016/j.ssresearch.2010.03.007
+Full text PDF: nces.ed.gov/pubs2006/2006075.pdf
+A presentation of selected data on the child care and education
+arrangements of infants, toddlers, and preschool children based on the
+Early Childhood Program Participation Survey component of the nationally
+representative 2005 National Household Education Survey (NHES)
+
+27. Karoly, Lynn A., "The Use of Early Care and Education by California
+Families." RAND Labor and Population Occasional Paper. OP-356-PF, Santa
+Monica, CA: Rand Corporation, 2012.
+Full text PDF: www.rand.org/content/dam/rand/pubs/occasional_papers/2012/RAND_OP356.pdf
+A study of the child care arrangements of children from birth to 5 years
+old in California, based on data from the National Household Education
+Survey, 2005, and a 2007 study of preschool in California
+
+28. Karoly, Lynn A.; Gonzalez, Gabriella C., "Early care and education for
+children in immigrant families." The Future of Children. Spr 2011, 21, (1),
+71 - 101. DOI: 10.1353/foc.2011.0005
+Full text PDF: www.rand.org/content/dam/rand/pubs/occasional_papers/2012/RAND_OP356.pdf
+A study of the child care arrangements of children from birth to 5 years
+old in California, based on data from the National Household Education
+Survey, 2005, and a 2007 study of preschool in California
+
+29. Kim, Jinseok; Fram, Maryah Stella, "Profiles of choice: Parents'
+patterns of priority in child care decision-making." Early Childhood
+Research Quarterly. 2009, 24, (1), 77 - 91. DOI:
+10.1016/j.ecresq.2008.10.001
+Full text PDF: www.rand.org/content/dam/rand/pubs/occasional_papers/2012/RAND_OP356.pdf
+A study of the child care arrangements of children from birth to 5 years
+old in California, based on data from the National Household Education
+Survey, 2005, and a 2007 study of preschool in California
+
+30. Lawrence, Sharmila; Kreader, J. Lee, "School-Age Child Care
+Arrangements." Research-to-Policy Connections. 4, New York, NY: Child Care
+& Early Education Research Connections, Oct 2006.
+Abstract: http://www.nccp.org/publications/pub_686.html
+A summary of current research, drawn from nationally representative
+surveys, on the types and usage of nonparental child care arrangements for
+school age children
+
+31. Magnuson, Katherine A.; Waldfogel, Jane, "Trends in income-related gaps
+in enrollment in early childhood education: 1968 to 2013." AERA Open. Apr-
+Jun 2016, 2, (2), 1 - 13. DOI: 10.1177/2332858416648933
+Abstract: http://www.nccp.org/publications/pub_686.html
+A summary of current research, drawn from nationally representative
+surveys, on the types and usage of nonparental child care arrangements for
+school age children
+
+32. Miller, Carissa Moffat, "The Role of Adult Education Participation in
+Successful Aging." Dissertation, University of Idaho, 2009.
+Abstract: http://www.nccp.org/publications/pub_686.html
+A summary of current research, drawn from nationally representative
+surveys, on the types and usage of nonparental child care arrangements for
+school age children
+
+33. Montes, Guillermo; Halterman, Jill S. , "Association of childhood
+autism spectrum disorders and loss of family income." Pediatrics. Apr 2008,
+121, (4), e821 - e826. DOI: 10.1542/peds.2007-1594
+Abstract: http://www.nccp.org/publications/pub_686.html
+A summary of current research, drawn from nationally representative
+surveys, on the types and usage of nonparental child care arrangements for
+school age children
+
+34. National Center for Education Statistics, "Recent Participation in
+Formal Learning Among
+Working-Age Adults With Different Levels of
+Education." Issue Brief. NCES 2008–041, Jan 2008.
+8.
+Full text PDF: https://nces.ed.gov/pubs2008/2008041.pdf
+
+35. O'Donnell, Kevin; Chapman, Chris, "Adult Education Participation in
+2004-05." National Household Education Surveys Program of 2005. NCES 2006-
+077, Washington, DC: U.S. Department of Education, National Center for
+Education Statistics, May 2006.
+Full text PDF: http://nces.ed.gov/pubs2006/2006077.pdf
+
+36. Park, Hyejoon; Lin, Ching-Hsuan; Liu, Chennan; Tabb, Karen M., "The
+relationships between after-school programs, academic outcomes, and
+behavioral developmental outcomes of Latino children from immigrant
+families: Findings from the 2005 National Household Education Surveys
+Program." Children and Youth Services Review. Jun 2015, 53, 77 - 83. DOI:
+10.1016/j.childyouth.2015.03.019
+Full text PDF: http://nces.ed.gov/pubs2006/2006077.pdf
+
+37. Park, Hyejoon; Zhan, Min, "The impact of after-school childcare
+arrangements on the developmental outcomes of low-income children."
+Children and Youth Services Review. Feb 2017, 73, 230 - 241. DOI:
+10.1016/j.childyouth.2016.12.023
+Full text PDF: http://nces.ed.gov/pubs2006/2006077.pdf
+
+38. Park, Hyejoon; Zhan, Min; Choi, Shinwoo, "After-school childcare
+arrangements and maternal labor Supply in low-income American households:
+Comparisons between race and ethnicity." Journal of Sociology and Social
+Welfare. 2020, 47, (4), 85 - 113.
+Full text PDF: http://nces.ed.gov/pubs2006/2006077.pdf
+
+39. Park, Hyejoon; Zhan, Min; Choi, Shinwoo, "Associations between after-
+school arrangements and labour conditions of low-income working mothers in
+the United States." Journal of Family Studies. 2019,. DOI:
+10.1080/13229400.2019.1588142
+Full text PDF: http://nces.ed.gov/pubs2006/2006077.pdf
+
+40. Provasnik, Stephen; KewalRamani, Angelina; Coleman, Mary McLaughlin;
+Gilbertson, Lauren; Herring, Will; Xie, Qingshu, "Status of Education in
+Rural America." NCES 2007-040. Washington, DC: United States Department of
+of Education, National Center for Education Statistics, Jul 2007.
+Full text PDF: http://nces.ed.gov/pubs2007/2007040.pdf
+
+41. Rathbun, Amy; Zhang, Anlan, "Primary Early Care and Education
+Arrangements and Achievement at Kindergarten Entry." NCES 2016-070. 2016-
+070, Washington, DC: National Center for Education Statistics, Jun 2016.
+Full text PDF: nces.ed.gov/pubs2016/2016070.pdf
+This Statistical Analysis Report builds upon prior work by using the most
+recently available data to explore relationships between children's primary
+care and education arrangements the year before kindergarten and their
+academic skills and learning behaviors at kindergarten entry, after
+accounting for child and family background characteristics. In the report,
+ECE arrangements are classified into five groups: (1) center-based care
+(including day care centers, Head Start programs, preschools,
+prekindergartens, and other early childhood programs), (2) home-based
+relative care, (3) home-based nonrelative care, (4) multiple arrangements
+(i.e., children who spent an equal amount of time in each of two or more
+types of arrangements), and (5) no ECE arrangement on a regular basis
+(i.e., children who had no regularly scheduled care arrangement and mainly
+received care only from their parents). Information for this report comes
+from the nationally representative National Household Education Surveys
+Program (NHES) and the Early Childhood Longitudinal Study, Kindergarten
+Class of 2010-11 (ECLS-K:2011) data collections. (author abstract)
+
+42. Redford, Jeremy; Desrochers, Donna; Hoyer, Kathleen Mulvaney, "The
+Years Before School: Children's Nonparental Care
+Arrangements From 2001 to 2012." NCES Statistics in Brief. 2017-096,
+Washington, DC: National Center for Education Statistics, Mar 2017.
+Full text PDF: https://nces.ed.gov/pubs2017/2017096.pdf
+This Statistics in Brief examines the nonparental care arrangements of
+children in the United States, from birth through age 5, who are not yet
+enrolled in kindergarten. The report draws on data from the National
+Household Education Surveys Program (NHES) Early Childhood Program
+Participation (ECPP) Surveys of 2001, 2005, and 2012. Previous reports have
+shown that children's nonparental care arrangements vary by age, with
+higher percentages of older children participating in center care
+arrangements (Mamedova and Redford 2013; Mulligan, Brimhall, and West
+2005). The evidence suggests that this may be because as children get
+older, their parents begin to focus more on their academic skills. Younger
+children's parents, in contrast, may be more concerned about practical
+factors such as cost and arrangement reliability as well as factors related
+to caregivers' trustworthiness and ability to form caring, home- or family-
+like relationships with children (Chaudry et al. 2011; Kim and Fram 2009).
+Given the emphasis in recent years on young children's early learning and
+nonparental care arrangements, it is important to better understand where
+children are spending their time during the years before school entry. This
+report presents findings on nonparental care over time, specifically on the
+arrangements children participate in, the time they spend in these
+arrangements, and the out-of-pocket expense for these arrangements. (author
+abstract)
+
+43. Romero, Mariajose, "Guide to Datasets for Research and Policymaking in
+Child Care and Early Education." User guide. New York, NY: Child Care &
+Early Education Research Connections, Jan 2009..
+Full text PDF: https://nces.ed.gov/pubs2017/2017096.pdf
+This Statistics in Brief examines the nonparental care arrangements of
+children in the United States, from birth through age 5, who are not yet
+enrolled in kindergarten. The report draws on data from the National
+Household Education Surveys Program (NHES) Early Childhood Program
+Participation (ECPP) Surveys of 2001, 2005, and 2012. Previous reports have
+shown that children's nonparental care arrangements vary by age, with
+higher percentages of older children participating in center care
+arrangements (Mamedova and Redford 2013; Mulligan, Brimhall, and West
+2005). The evidence suggests that this may be because as children get
+older, their parents begin to focus more on their academic skills. Younger
+children's parents, in contrast, may be more concerned about practical
+factors such as cost and arrangement reliability as well as factors related
+to caregivers' trustworthiness and ability to form caring, home- or family-
+like relationships with children (Chaudry et al. 2011; Kim and Fram 2009).
+Given the emphasis in recent years on young children's early learning and
+nonparental care arrangements, it is important to better understand where
+children are spending their time during the years before school entry. This
+report presents findings on nonparental care over time, specifically on the
+arrangements children participate in, the time they spend in these
+arrangements, and the out-of-pocket expense for these arrangements. (author
+abstract)
+
+44. Smith, M. Cecil; Smith, Thomas J., "Low-education adults' participation
+in informal learning activities: Relationships with selected demographic
+characteristics." Adult Basic Education and Literacy Journal. Sum 2008, 2,
+(2), 67 - 73.
+Full text PDF: https://nces.ed.gov/pubs2017/2017096.pdf
+This Statistics in Brief examines the nonparental care arrangements of
+children in the United States, from birth through age 5, who are not yet
+enrolled in kindergarten. The report draws on data from the National
+Household Education Surveys Program (NHES) Early Childhood Program
+Participation (ECPP) Surveys of 2001, 2005, and 2012. Previous reports have
+shown that children's nonparental care arrangements vary by age, with
+higher percentages of older children participating in center care
+arrangements (Mamedova and Redford 2013; Mulligan, Brimhall, and West
+2005). The evidence suggests that this may be because as children get
+older, their parents begin to focus more on their academic skills. Younger
+children's parents, in contrast, may be more concerned about practical
+factors such as cost and arrangement reliability as well as factors related
+to caregivers' trustworthiness and ability to form caring, home- or family-
+like relationships with children (Chaudry et al. 2011; Kim and Fram 2009).
+Given the emphasis in recent years on young children's early learning and
+nonparental care arrangements, it is important to better understand where
+children are spending their time during the years before school entry. This
+report presents findings on nonparental care over time, specifically on the
+arrangements children participate in, the time they spend in these
+arrangements, and the out-of-pocket expense for these arrangements. (author
+abstract)
+
+45. Swenson, Kendall, "Child Care Arrangements in Urban and Rural Areas."
+Washington, DC: U.S. Department of Health and Human Services, Office of the
+Assistant Secretary for Planning and Evaluation, 2008.
+Abstract: https://aspe.hhs.gov/pdf-report/child-care-arrangements-urban-and-rural-areas
+A study comparing features of child care arrangements of children in urban
+and rural areas, including: type of arrangement, weekly hours in child
+care, auspice or sponsorship of center-based child care programs, child-
+adult ratio, and parent child care expenses, based on data from the
+nationally representative National Household Education Survey, 2005
+
+46. Van Lancker, Wim; Ghysels, Joris, "Great Expectations, but How to
+Achieve Them?: Explaining Patterns of Inequality in Childcare Use Across 31
+Developed Countries." CSB Working Paper. 13/05, Antwerp, Belgium: Centrum
+voor Sociaal Beleid Herman Deleeck (Herman Deleeck Centre for Social
+Policy), Dec 2013.
+Full text PDF: www.centrumvoorsociaalbeleid.be/sites/default/files/CSB%20Working%20Paper%2013%2005_December%202013.pdf
+Childcare services are increasingly regarded as a major policy lever to
+mitigate social inequalities. Such services are believed to be effective in
+reducing poverty and increasing employment rates by allowing both parents
+to engage in paid employment, as well as to benefit the cognitive and non-
+cognitive development of young children. This holds in particular for young
+children from disadvantaged backgrounds, enhancing their future success in
+education and in the labour market. However, recent studies have shown that
+the use of formal childcare services is socially stratified, i.e. higher-
+income families or families with a high-educated mother use childcare
+services to a much larger extent than lower-income families or families
+with a low-skilled mother. Due to this social gap in childcare use,
+government investment in childcare could fail to live up to its inequality-
+reducing potential or, worse still, may actually exacerbate rather than
+mitigate social inequalities. Drawing on the comparative social policy
+literature, this article explores, for the first time, the determinants of
+inequalities in childcare coverage for a broad set of countries. Our
+results contribute to a proper understanding of the mechanisms driving
+inequality in childcare service use, which is crucial to the future of
+childcare services as an effective policy instrument to mitigate social
+inequalities in early life. (author abstract)
+
+47. Yesil-Dagli, Ummuhan, "Center-based childcare use by Hispanic families:
+Reasons and predictors." Children and Youth Services Review. Jul 2011, 33,
+(7), 1298 - 1308. DOI: 10.1016/j.childyouth.2011.03.004
+Full text PDF: www.centrumvoorsociaalbeleid.be/sites/default/files/CSB%20Working%20Paper%2013%2005_December%202013.pdf
+Childcare services are increasingly regarded as a major policy lever to
+mitigate social inequalities. Such services are believed to be effective in
+reducing poverty and increasing employment rates by allowing both parents
+to engage in paid employment, as well as to benefit the cognitive and non-
+cognitive development of young children. This holds in particular for young
+children from disadvantaged backgrounds, enhancing their future success in
+education and in the labour market. However, recent studies have shown that
+the use of formal childcare services is socially stratified, i.e. higher-
+income families or families with a high-educated mother use childcare
+services to a much larger extent than lower-income families or families
+with a low-skilled mother. Due to this social gap in childcare use,
+government investment in childcare could fail to live up to its inequality-
+reducing potential or, worse still, may actually exacerbate rather than
+mitigate social inequalities. Drawing on the comparative social policy
+literature, this article explores, for the first time, the determinants of
+inequalities in childcare coverage for a broad set of countries. Our
+results contribute to a proper understanding of the mechanisms driving
+inequality in childcare service use, which is crucial to the future of
+childcare services as an effective policy instrument to mitigate social
+inequalities in early life. (author abstract)

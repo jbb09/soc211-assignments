@@ -1,0 +1,102 @@
+File Manifest for ICPSR 4599
+
+U.S. Dept. of Education, National Center for Education Statistics. NATIONAL
+HOUSEHOLD EDUCATION SURVEY, 2005. ICPSR04599-v1. Washington, DC: U.S. Dept.
+of Education, Institute of Education Sciences [producer], 2006. Ann Arbor,
+MI: Inter-university Consortium for Political and Social Research
+[distributor], 2007-03-13. http://doi.org/10.3886/ICPSR04599.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04599-descriptioncitation.pdf       -       -         -       2023-06-29  -
+
+    04599-related_literature.txt        -       -         -       daily       -
+
+    04599-manifest.txt                  -       -         -       daily       -
+
+    04599-Questionnaire.pdf             -       -         -       2007-03-13  24d2a9b994220b5c08586d2e59b89cbf
+
+    04599-User_guide.pdf                -       -         -       2007-03-13  11fbe61a0b70b3438ec716a119ab653d
+
+
+DS0001 Early Childhood Program Participation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04599-0001-Data.dta                 -       7,209     1238    2007-03-13  20805fad887fc6cea6c09cc0cb1aee2f
+
+    04599-0001-Data.por                 -       7,209     1238    2007-03-13  991513a10085a1223bafbaf646b1140a
+
+    04599-0001-Data.txt                 3263    7,209     1238    2007-03-13  4d56958a0a73c60f27ca6b36ce2632b5
+
+    04599-0001-Data.xpt                 -       7,209     1238    2007-03-13  e6b727aa6d822d9600f47a1f86d557e6
+
+    04599-0001-Setup.dct                -       -         -       2007-03-13  7af8d81f364291c82abcb0e51660d1e8
+
+    04599-0001-Setup.do                 -       -         -       2007-03-13  7db193ca03ddc8157b8c673aea5cb824
+
+    04599-0001-Setup.sas                -       -         -       2007-03-13  443230a93c2730bffa497011066b5394
+
+    04599-0001-Setup.sps                -       -         -       2007-03-13  b39f0ee3a8cef84c031046a6400a0d05
+
+    04599-0001-Supplemental_syntax.sas  -       -         -       2007-03-13  2f99714eed4bde86fe93c040481558f8
+
+    04599-0001-User_guide.pdf           -       -         -       2007-03-13  21d311f5bc3bce84315f5c851c3ccf47
+
+
+DS0002 After-School Programs and Activities
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04599-0002-Data.dta                 -       11,684    1358    2007-03-13  cfe8319190a2087483484861cce4d2fc
+
+    04599-0002-Data.por                 -       11,684    1358    2007-03-13  5c90b2ea08256c804e3f86ec7cf0db8d
+
+    04599-0002-Data.txt                 3497    11,684    1358    2007-03-13  f0004d80171ccf5d9cea02c276f81dc4
+
+    04599-0002-Data.xpt                 -       11,684    1358    2007-03-13  53a30f1db6fdf05a69f52477a33ee4be
+
+    04599-0002-Setup.dct                -       -         -       2007-03-13  b3a5336c05169060f283c5d4d147914c
+
+    04599-0002-Setup.do                 -       -         -       2007-03-13  4d78b554d6703693c35f6b337d0a30e2
+
+    04599-0002-Setup.sas                -       -         -       2007-03-13  2d290fe7d981ee12c7b0b58effd24463
+
+    04599-0002-Setup.sps                -       -         -       2007-03-13  2d1b6e438ec3e645dcdd860c51c37cbd
+
+    04599-0002-Supplemental_syntax.sas  -       -         -       2007-03-13  39268c5d2a790f9b67ac865beb2b3f98
+
+    04599-0002-User_guide.pdf           -       -         -       2007-03-13  cc19b331c5e180f599e46e9ebb5099c5
+
+
+DS0003 Adult Education
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04599-0003-Data.dta                 -       8,904     1031    2007-03-13  b637518e1ee84dad524f7880a074a440
+
+    04599-0003-Data.por                 -       8,904     1031    2007-03-13  4eaebd3f9957108343e599bad7d6d335
+
+    04599-0003-Data.txt                 2991    8,904     1031    2007-03-13  a9dcf91a22b239490b43f733c38a9ccc
+
+    04599-0003-Data.xpt                 -       8,904     1031    2007-03-13  5a8d08554970595498a0ce680e32edce
+
+    04599-0003-Setup.dct                -       -         -       2007-03-13  39592ae66ef8869d7cbc76e184f83276
+
+    04599-0003-Setup.do                 -       -         -       2007-03-13  6a98b796ba0f42065d65765c95411a7d
+
+    04599-0003-Setup.sas                -       -         -       2007-03-13  1656508f530d70e08a90e4c01394d771
+
+    04599-0003-Setup.sps                -       -         -       2007-03-13  86afd20905b5a2136b5e9f11e2a861c0
+
+    04599-0003-Supplemental_syntax.sas  -       -         -       2007-03-13  71f5d44c6731ca96aaa6d99f9a93b958
+
+    04599-0003-User_guide.pdf           -       -         -       2007-03-13  c5bf1f059fee3873f1676eeea299eebc
+

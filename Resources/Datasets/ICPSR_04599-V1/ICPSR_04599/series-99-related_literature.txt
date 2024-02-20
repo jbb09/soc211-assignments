@@ -1,0 +1,141 @@
+Bibliography
+National Household Education Survey (NHES) Series
+
+This bibliography includes published and unpublished works that are
+related to ICPSR series 99. It includes works that are based on
+primary or secondary analysis of the data, or which describe or critique
+those data or the collection methodology. This list represents all items
+known to ICPSR as of 2019-05-21.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR series used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. (author unknown), "Overcoming Barriers to Family Involvement in Title I
+Schools." Report to Congress. Washington, DC: Feb 1997.
+
+2. Bhatt, Rachana, "The impact of public library use on reading,
+television, and academic outcomes." Journal of Urban Economics. Sep 2010,
+68, (2), 148 - 166. DOI: 10.1016/j.jue.2010.03.008
+
+3. Bills, David B., "When School Surveys Just Aren't Enough: Uses of the
+National Household Education Surveys Program. Invited Commentary."
+Education Statistics Quarterly. Win 2001, 3, (4), 22 - 24.
+Full text: http://nces.ed.gov/pubs2002/quarterly/winter01/q2-4.asp
+
+4. Brick, J. Michael; Celebuski, Carin A.; Collins, Mary A.; West, Jerry,
+"Overview of the NHES Field Test." National Household Education Survey
+Technical Report No. 1. NCES 92099, Washington, DC: United States
+Department of Education, National Center for Education Statistics, Jul
+1992.
+Abstract: http://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=92099
+
+5. Corder, Larry S.; Manton, Kenneth G., "National surveys and the health
+and functioning of the elderly: The effects of design and content." Journal
+of the American Statistical Association. Jun 1991, 86, (414), 513 - 525.
+Full text: http://www.jstor.org/stable/2290603
+
+6. Doherty, Kathryn M., "Children attend variety of settings." Education
+Week. Jan 10, 2002, 21, (17), 21 - 22.
+Full text: http://www.jstor.org/stable/2290603
+
+7. Federal Interagency Forum on Child and Family Statistics, "America's
+Children: Key National Indicators of Well-Being, 2007." Washington, DC:
+Federal Interagency Forum on Child and Family Statistics, 2007.
+Full text: http://www.childstats.gov/americaschildren/index.asp
+Full text PDF: http://www.childstats.gov/pdf/ac2007/ac_07.pdf
+
+8. Federal Interagency Forum on Child and Family Statistics, "America's
+Children: Key National Indicators of Well-Being, 2009." Washington, DC:
+National Center for Health Statistics, Jul 2009.
+Abstract: http://www.nichd.nih.gov/publications/pubs_details.cfm?from=&pubs_id=5728
+Full text PDF: http://www.nichd.nih.gov/publications/pubs/upload/Americas-Children-2009.pdf
+
+9. Federal Interagency Forum on Child and Family Statistics, "America's
+Children: Key National Indicators of Well-Being, 2011." National Center for
+Health Statistics. Washington, DC: Jul 2011.
+Full text PDF: http://www.nichd.nih.gov/publications/pubs/upload/americas-children-2011.pdf
+
+10. Hollenbeck, Kevin, "A Framework for Assessing the Economic Benefits and
+Costs of Workplace Literacy Training." Presented at the Workplace Learning:
+The Strategic Advantage Conference, Center on Education and Work,
+University of Wisconsin-Madison, Milwaukee, WI, Apr 29, 1996.
+Full text PDF: http://www.nichd.nih.gov/publications/pubs/upload/americas-children-2011.pdf
+
+11. Kopka, Chan; Peng, Samuel, "Adult Education: Employment-Related
+Training." Statistical Analysis Report. NCES 94-471, Washington, DC: United
+States Department of Education, Office of Educational Research and
+Improvement, May 1994.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=94471
+
+12. Kopka, Teresita; Peng, Samuel, "Adult Education: Main Reasons for
+Participating." Statistics in Brief. NCES 93-451, Washington, DC: United
+States Department of Education, Office of Educational Research and
+Improvement, Jun 1993.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=93451
+
+13. Nord, Christine Winquist; et al, "Fathers' Involvement in Their
+Children's Schools." NCES 98-091, Washington, DC: 1997.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=98091
+Full text: http://nces.ed.gov/pubs98/fathers/
+Full text PDF: http://nces.ed.gov/pubs98/fathers/98091.pdf
+
+14. Owings, Jeff, "Dropout Rates in the United States: 1989." NCES 90-659,
+Washington, DC: United States Department of Education, Office of
+Educational Research and Improvement, Sep 1990.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=90659
+
+15. Peng, Samuel, "Rural Education Data User's Guide." National Center for
+Education Statistics Working Paper Series. NCES 95-12, Washington, DC:
+United States Department of Education, Office of Educational Research and
+Improvement, Mar 1995.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=9512
+Full text PDF: http://nces.ed.gov/pubs95/9512.pdf
+
+16. Schechter, Susan, "Household Data in the Federal Statistical System:
+The Role of the National Household Education Surveys Program. Invited
+Commentary." Education Statistics Quarterly. Win 2001, 3, (4), 19 - 21.
+Full text: http://nces.ed.gov/pubs2002/quarterly/winter01/q2-3.asp
+
+17. Snyder, Thomas D.; Hoffman, Charlene M., "Digest of Education
+Statistics 2000." NCES 2001-034, Washington, DC: United States Department
+of Education, Office of Educational Research and Improvement, Jan 2001.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2001034
+Full text PDF: http://nces.ed.gov/pubs2001/2001034.pdf
+
+18. Snyder, Thomas D.; Hoffman, Charlene M., "Digest of education
+statistics: 2001." Education Statistics Quarterly. Spr 2002, 4, (1), 7 -
+14.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2002608
+Full text PDF: http://nces.ed.gov/pubs2002/2002608.pdf
+
+19. Tait, Leigh A.D., "School Violence: A Critical Review of Canadian and
+American Studies." Thesis, Simon Fraser University, 2004.
+Abstract: http://summit.sfu.ca/item/7818
+
+20. Thurgood, Lori; Walter, Elizabeth; Carter, George; Henn, Susan; Huang,
+Gary; Nooter, Daniel; Smith, Wray; Cash, R. William; Salvucci, Sameena,
+"NCES Handbook of Survey Methods." NCES 2003-603, Washington, DC: United
+States Department of Education, Office of Educational Research and
+Improvement, Apr 2003.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2003603
+Full text PDF: http://nces.ed.gov/pubs2003/2003603.pdf
+
+21. West, Jerry, "Multiplicity Sampling for Dropouts in the NHES Field
+Test." NCES 92-102, Washington, DC: United States Department of Education,
+Office of Educational Research and Improvement, Jul 1992.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=92102
+
+22. Wirt, John; Livingston, Andrea, "Condition of Education 2002 in Brief."
+NCES 2002-011, Washington, DC: United States Department of Education,
+Office of Educational Research and Improvement, Aug 2002.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2002011
+Full text PDF: http://nces.ed.gov/pubs2002/2002011.pdf
+
+23. Zill, Nicholas, "Understanding why children in stepfamilies have more
+learning and behavior problems than children in nuclear families.." In
+Booth, Alan; Dunn, Judy, Stepfamilies: Who Benefits? Who Does Not? . 233 -
+Hillsdale, NJ: Lawrence Erlbaum Associates,1994.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2002011
+Full text PDF: http://nces.ed.gov/pubs2002/2002011.pdf
