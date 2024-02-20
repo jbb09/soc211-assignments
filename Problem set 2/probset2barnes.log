@@ -1,0 +1,61 @@
+-------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\User\Documents\GRAD STATS LAB SEM 2\Soc211 Assignments\Pr
+> oblem set 2\probset2barnes.log
+  log type:  text
+ opened on:  19 Feb 2024, 21:08:18
+(8 vars, 581 obs)
+year          stabbr        hgroupstring  igrnt_low_~c  hgrouptemp
+instnm        control       highdeg       sgrnt_low_~c  hgroup
+
+-------------------------------------------------------------------------------
+hgroup                                                           research level
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (long)
+                 Label: hgroup
+
+                 Range: [1,4]                         Units: 1
+         Unique values: 4                         Missing .: 0/581
+
+            Tabulation: Freq.   Numeric  Label
+                           34         1  Highest
+                           37         2  Very high
+                           72         3  High
+                          438         4  Some/None
+
+mn_sgrnt_lo |
+      w_inc |      Freq.     Percent        Cum.
+------------+-----------------------------------
+   3109.573 |        438       75.39       75.39
+   3874.735 |         72       12.39       87.78
+   6196.042 |         37        6.37       94.15
+    6340.64 |         34        5.85      100.00
+------------+-----------------------------------
+      Total |        581      100.00
+(19 vars, 33 obs)
+opeid               stabbr              spend_ugd_4yr_low   instatetuition
+acceptrate          hgroup              x_aid_bysticker     xstring
+y_lo_inc_rpy        upgrntn             sgrnt_low_inc       ystring
+lo_inc_debt_mdn     all_under           igrnt_low_inc       markerlabel
+instnm              netprice4lowincome  sandigrnt_low_inc
+
+      Source |       SS           df       MS      Number of obs   =        33
+-------------+----------------------------------   F(1, 31)        =      8.48
+       Model |  473.546336         1  473.546336   Prob > F        =    0.0066
+    Residual |  1730.93895        31  55.8367402   R-squared       =    0.2148
+-------------+----------------------------------   Adj R-squared   =    0.1895
+       Total |  2204.48528        32  68.8901651   Root MSE        =    7.4724
+
+------------------------------------------------------------------------------
+y_lo_inc_rpy | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+netprice4l~e |  -.0011662   .0004005    -2.91   0.007    -.0019829   -.0003495
+       _cons |   76.56364   3.782187    20.24   0.000     68.84982    84.27746
+------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\User\Documents\GRAD STATS LAB SEM 2\Soc211 Assignments\Pr
+> oblem set 2\probset2barnes.log
+  log type:  text
+ closed on:  19 Feb 2024, 21:08:24
+-------------------------------------------------------------------------------
