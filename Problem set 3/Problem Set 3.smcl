@@ -1,0 +1,288 @@
+{smcl}
+{txt}{sf}{ul off}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\User\Documents\GRAD STATS LAB SEM 2\Soc211 Assignments\Problem set 3\Problem Set 3.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 4 Mar 2024, 14:24:07
+{txt}{col 1}age{col 10}educ{col 19}usetech
+
+       highest year of school {c |}
+                    completed {c |}      Freq.     Percent        Cum.
+{hline 30}{c +}{hline 35}
+          no formal schooling {c |}{res}          4        0.17        0.17
+{txt}                            1 {c |}{res}          2        0.09        0.26
+{txt}                            2 {c |}{res}          4        0.17        0.43
+{txt}                            3 {c |}{res}         10        0.43        0.85
+{txt}                            4 {c |}{res}          5        0.21        1.07
+{txt}                            5 {c |}{res}          3        0.13        1.19
+{txt}                            6 {c |}{res}         20        0.85        2.05
+{txt}                            7 {c |}{res}          8        0.34        2.39
+{txt}                            8 {c |}{res}         35        1.49        3.88
+{txt}                            9 {c |}{res}         51        2.17        6.06
+{txt}                           10 {c |}{res}         65        2.77        8.83
+{txt}                           11 {c |}{res}         95        4.05       12.88
+{txt}                           12 {c |}{res}        657       28.02       40.90
+{txt}                           13 {c |}{res}        183        7.80       48.70
+{txt}                           14 {c |}{res}        313       13.35       62.05
+{txt}                           15 {c |}{res}        127        5.42       67.46
+{txt}                           16 {c |}{res}        430       18.34       85.80
+{txt}                           17 {c |}{res}         97        4.14       89.94
+{txt}                           18 {c |}{res}        119        5.07       95.01
+{txt}                           19 {c |}{res}         45        1.92       96.93
+{txt}                           20 {c |}{res}         72        3.07      100.00
+{txt}{hline 30}{c +}{hline 35}
+                        Total {c |}{res}      2,345      100.00
+{txt}(79 missing values generated)
+
+    Variable {c |}        Obs        Mean    Std. dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 6}educat {c |}{res}      2,269    12.37726     3.21901          1         16
+
+     {txt}educat {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}         24        1.06        1.06
+{txt}          6 {c |}{res}        274       12.08       13.13
+{txt}         12 {c |}{res}      1,280       56.41       69.55
+{txt}         16 {c |}{res}        691       30.45      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}      2,269      100.00
+
+{txt}{hline}
+{res}usetech{right:percentage of time use tech}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+{ralign 22:Label}: {res:COUNTMISS}, but {res:53} nonmissing values are not labeled
+
+{col 18}Range: [{res}0{txt},{res}100{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}53{col 51}{txt}Missing .: {res}0{txt}/{res}2,348
+{col 8}{txt}Unique mv codes: {res}3{col 50}{txt}Missing .*: {res}936{txt}/{res}2,348
+
+{txt}{ralign 23: Examples:}{col 25}{res}30{col 31}{txt}
+{ralign 23: }{col 25}{res}85{col 31}{txt}
+{ralign 23: }{col 25}{res}100{col 31}{txt}
+{ralign 23: }{col 25}{res}.i{col 31}{txt}iap
+
+      Source {c |}       SS           df       MS      Number of obs   ={res}     1,362
+{txt}{hline 13}{c +}{hline 34}   F(3, 1358)      = {res}    51.07
+{txt}       Model {c |} {res} 199207.458         3  66402.4858   {txt}Prob > F        ={res}    0.0000
+{txt}    Residual {c |} {res} 1765777.24     1,358  1300.27779   {txt}R-squared       ={res}    0.1014
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.0994
+{txt}       Total {c |} {res} 1964984.69     1,361  1443.78008   {txt}Root MSE        =   {res} 36.059
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}     usetech{col 14}{c |} Coefficient{col 26}  Std. err.{col 38}      t{col 46}   P>|t|{col 54}     [95% con{col 67}f. interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 6}educat {c |}
+{space 10}6  {c |}{col 14}{res}{space 2} 26.94048{col 26}{space 2} 10.89386{col 37}{space 1}    2.47{col 46}{space 3}0.014{col 54}{space 4} 5.569859{col 67}{space 3} 48.31109
+{txt}{space 9}12  {c |}{col 14}{res}{space 2} 46.68781{col 26}{space 2}  10.4925{col 37}{space 1}    4.45{col 46}{space 3}0.000{col 54}{space 4} 26.10454{col 67}{space 3} 67.27107
+{txt}{space 9}16  {c |}{col 14}{res}{space 2} 64.09439{col 26}{space 2} 10.54011{col 37}{space 1}    6.08{col 46}{space 3}0.000{col 54}{space 4} 43.41772{col 67}{space 3} 84.77105
+{txt}{space 12} {c |}
+{space 7}_cons {c |}{col 14}{res}{space 2} 4.166667{col 26}{space 2} 10.40944{col 37}{space 1}    0.40{col 46}{space 3}0.689{col 54}{space 4}-16.25366{col 67}{space 3}   24.587
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}
+{text}{p 0 0 2}Variables that uniquely identify margins: {bf:educat}{p_end}
+{res}
+{txt}{hline 44}
+{txt}                      (1)             (2)   
+{txt}                  usetech         usetech   
+{txt}                     b/se            b/se   
+{txt}{hline 44}
+{txt}educat      {res}        3.918***                {txt}
+            {res}      (0.318)                   {txt}
+{txt}6.educat    {res}                       26.940*  {txt}
+            {res}                     (10.894)   {txt}
+{txt}12.educat   {res}                       46.688***{txt}
+            {res}                     (10.492)   {txt}
+{txt}16.educat   {res}                       64.094***{txt}
+            {res}                     (10.540)   {txt}
+{txt}_cons       {res}        4.765           4.167   {txt}
+            {res}      (4.171)        (10.409)   {txt}
+{txt}{hline 44}
+{txt}R-Sqaured   {res}        0.100           0.101   {txt}
+{txt}N           {res}     1362.000        1362.000   {txt}
+{txt}{hline 44}
+
+            age of respondent {c |}      Freq.     Percent        Cum.
+{hline 30}{c +}{hline 35}
+                           18 {c |}{res}         22        0.94        0.94
+{txt}                           19 {c |}{res}         26        1.11        2.05
+{txt}                           20 {c |}{res}         15        0.64        2.69
+{txt}                           21 {c |}{res}         27        1.15        3.84
+{txt}                           22 {c |}{res}         40        1.71        5.55
+{txt}                           23 {c |}{res}         29        1.24        6.79
+{txt}                           24 {c |}{res}         38        1.62        8.42
+{txt}                           25 {c |}{res}         43        1.84       10.25
+{txt}                           26 {c |}{res}         31        1.32       11.58
+{txt}                           27 {c |}{res}         39        1.67       13.24
+{txt}                           28 {c |}{res}         45        1.92       15.16
+{txt}                           29 {c |}{res}         43        1.84       17.00
+{txt}                           30 {c |}{res}         50        2.14       19.14
+{txt}                           31 {c |}{res}         34        1.45       20.59
+{txt}                           32 {c |}{res}         43        1.84       22.43
+{txt}                           33 {c |}{res}         42        1.79       24.22
+{txt}                           34 {c |}{res}         65        2.78       27.00
+{txt}                           35 {c |}{res}         40        1.71       28.71
+{txt}                           36 {c |}{res}         40        1.71       30.41
+{txt}                           37 {c |}{res}         43        1.84       32.25
+{txt}                           38 {c |}{res}         38        1.62       33.87
+{txt}                           39 {c |}{res}         55        2.35       36.22
+{txt}                           40 {c |}{res}         41        1.75       37.98
+{txt}                           41 {c |}{res}         40        1.71       39.68
+{txt}                           42 {c |}{res}         40        1.71       41.39
+{txt}                           43 {c |}{res}         39        1.67       43.06
+{txt}                           44 {c |}{res}         40        1.71       44.77
+{txt}                           45 {c |}{res}         29        1.24       46.01
+{txt}                           46 {c |}{res}         42        1.79       47.80
+{txt}                           47 {c |}{res}         30        1.28       49.08
+{txt}                           48 {c |}{res}         33        1.41       50.49
+{txt}                           49 {c |}{res}         31        1.32       51.82
+{txt}                           50 {c |}{res}         37        1.58       53.40
+{txt}                           51 {c |}{res}         41        1.75       55.15
+{txt}                           52 {c |}{res}         29        1.24       56.39
+{txt}                           53 {c |}{res}         48        2.05       58.44
+{txt}                           54 {c |}{res}         35        1.50       59.93
+{txt}                           55 {c |}{res}         48        2.05       61.98
+{txt}                           56 {c |}{res}         50        2.14       64.12
+{txt}                           57 {c |}{res}         39        1.67       65.78
+{txt}                           58 {c |}{res}         37        1.58       67.36
+{txt}                           59 {c |}{res}         46        1.96       69.33
+{txt}                           60 {c |}{res}         46        1.96       71.29
+{txt}                           61 {c |}{res}         39        1.67       72.96
+{txt}                           62 {c |}{res}         24        1.03       73.99
+{txt}                           63 {c |}{res}         37        1.58       75.57
+{txt}                           64 {c |}{res}         33        1.41       76.98
+{txt}                           65 {c |}{res}         39        1.67       78.64
+{txt}                           66 {c |}{res}         36        1.54       80.18
+{txt}                           67 {c |}{res}         27        1.15       81.33
+{txt}                           68 {c |}{res}         39        1.67       83.00
+{txt}                           69 {c |}{res}         41        1.75       84.75
+{txt}                           70 {c |}{res}         45        1.92       86.67
+{txt}                           71 {c |}{res}         33        1.41       88.08
+{txt}                           72 {c |}{res}         22        0.94       89.02
+{txt}                           73 {c |}{res}         20        0.85       89.88
+{txt}                           74 {c |}{res}         29        1.24       91.11
+{txt}                           75 {c |}{res}         23        0.98       92.10
+{txt}                           76 {c |}{res}         19        0.81       92.91
+{txt}                           77 {c |}{res}         28        1.20       94.11
+{txt}                           78 {c |}{res}         11        0.47       94.57
+{txt}                           79 {c |}{res}          9        0.38       94.96
+{txt}                           80 {c |}{res}         12        0.51       95.47
+{txt}                           81 {c |}{res}          9        0.38       95.86
+{txt}                           82 {c |}{res}         12        0.51       96.37
+{txt}                           83 {c |}{res}          7        0.30       96.67
+{txt}                           84 {c |}{res}         10        0.43       97.10
+{txt}                           85 {c |}{res}         12        0.51       97.61
+{txt}                           86 {c |}{res}         14        0.60       98.21
+{txt}                           87 {c |}{res}          5        0.21       98.42
+{txt}                           88 {c |}{res}          8        0.34       98.76
+{txt}                  89 or older {c |}{res}         29        1.24      100.00
+{txt}{hline 30}{c +}{hline 35}
+                        Total {c |}{res}      2,341      100.00
+{txt}(7 missing values generated)
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{txt}{sf}{ul off}{res}
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}     1,406
+{txt}{hline 13}{c +}{hline 34}   F(1, 1404)      = {res}     6.94
+{txt}       Model {c |} {res} 9873.33502         1  9873.33502   {txt}Prob > F        ={res}    0.0085
+{txt}    Residual {c |} {res} 1998745.09     1,404  1423.60761   {txt}R-squared       ={res}    0.0049
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.0042
+{txt}       Total {c |} {res} 2008618.43     1,405  1429.62166   {txt}Root MSE        =   {res} 37.731
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}     usetech{col 14}{c |} Coefficient{col 26}  Std. err.{col 38}      t{col 46}   P>|t|{col 54}     [95% con{col 67}f. interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 9}age {c |}{col 14}{res}{space 2}-.1864417{col 26}{space 2} .0707956{col 37}{space 1}   -2.63{col 46}{space 3}0.009{col 54}{space 4}-.3253182{col 67}{space 3}-.0475651
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2}  63.2671{col 26}{space 2} 3.253332{col 37}{space 1}   19.45{col 46}{space 3}0.000{col 54}{space 4} 56.88518{col 67}{space 3} 69.64901
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}{txt}({res}est1{txt} stored)
+(option {bf:xb} assumed; fitted values)
+(7 missing values generated)
+
+      Source {c |}       SS           df       MS      Number of obs   ={res}     1,406
+{txt}{hline 13}{c +}{hline 34}   F(2, 1403)      = {res}     6.37
+{txt}       Model {c |} {res} 18086.5305         2  9043.26525   {txt}Prob > F        ={res}    0.0018
+{txt}    Residual {c |} {res}  1990531.9     1,403  1418.76828   {txt}R-squared       ={res}    0.0090
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.0076
+{txt}       Total {c |} {res} 2008618.43     1,405  1429.62166   {txt}Root MSE        =   {res} 37.667
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}     usetech{col 14}{c |} Coefficient{col 26}  Std. err.{col 38}      t{col 46}   P>|t|{col 54}     [95% con{col 67}f. interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 9}age {c |}{col 14}{res}{space 2} .7980867{col 26}{space 2} .4152513{col 37}{space 1}    1.92{col 46}{space 3}0.055{col 54}{space 4}-.0164936{col 67}{space 3} 1.612667
+{txt}{space 8}age2 {c |}{col 14}{res}{space 2}-.0107385{col 26}{space 2} .0044632{col 37}{space 1}   -2.41{col 46}{space 3}0.016{col 54}{space 4}-.0194937{col 67}{space 3}-.0019833
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} 42.91972{col 26}{space 2} 9.059047{col 37}{space 1}    4.74{col 46}{space 3}0.000{col 54}{space 4} 25.14898{col 67}{space 3} 60.69045
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}{txt}({res}est2{txt} stored)
+(option {bf:xb} assumed; fitted values)
+(7 missing values generated)
+{res}
+{txt}{hline 44}
+{txt}                      (1)             (2)   
+{txt}                  usetech         usetech   
+{txt}                     b/se            b/se   
+{txt}{hline 44}
+{txt}age         {res}       -0.186**         0.798   {txt}
+            {res}      (0.071)         (0.415)   {txt}
+{txt}age2        {res}                       -0.011*  {txt}
+            {res}                      (0.004)   {txt}
+{txt}_cons       {res}       63.267***       42.920***{txt}
+            {res}      (3.253)         (9.059)   {txt}
+{txt}{hline 44}
+{txt}R-Sqaured   {res}        0.005           0.009   {txt}
+{txt}N           {res}     1406.000        1406.000   {txt}
+{txt}{hline 44}
+{res}{txt}(1,112 missing values generated)
+{res}
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}     1,406
+{txt}{hline 13}{c +}{hline 34}   F(1, 1404)      = {res}     6.94
+{txt}       Model {c |} {res} 9873.33502         1  9873.33502   {txt}Prob > F        ={res}    0.0085
+{txt}    Residual {c |} {res} 1998745.09     1,404  1423.60761   {txt}R-squared       ={res}    0.0049
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.0042
+{txt}       Total {c |} {res} 2008618.43     1,405  1429.62166   {txt}Root MSE        =   {res} 37.731
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}     usetech{col 14}{c |} Coefficient{col 26}  Std. err.{col 38}      t{col 46}   P>|t|{col 54}     [95% con{col 67}f. interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 9}age {c |}{col 14}{res}{space 2}-.1864417{col 26}{space 2} .0707956{col 37}{space 1}   -2.63{col 46}{space 3}0.009{col 54}{space 4}-.3253182{col 67}{space 3}-.0475651
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2}  63.2671{col 26}{space 2} 3.253332{col 37}{space 1}   19.45{col 46}{space 3}0.000{col 54}{space 4} 56.88518{col 67}{space 3} 69.64901
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}{txt}({res}est1{txt} stored)
+(7 missing values generated)
+
+      Source {c |}       SS           df       MS      Number of obs   ={res}     1,231
+{txt}{hline 13}{c +}{hline 34}   F(1, 1229)      = {res}     4.88
+{txt}       Model {c |} {res} 4.95408154         1  4.95408154   {txt}Prob > F        ={res}    0.0274
+{txt}    Residual {c |} {res} 1248.89701     1,229  1.01618959   {txt}R-squared       ={res}    0.0040
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.0031
+{txt}       Total {c |} {res} 1253.85109     1,230  1.01939113   {txt}Root MSE        =   {res} 1.0081
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}   usetechln{col 14}{c |} Coefficient{col 26}  Std. err.{col 38}      t{col 46}   P>|t|{col 54}     [95% con{col 67}f. interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 9}age {c |}{col 14}{res}{space 2}-.0045496{col 26}{space 2} .0020605{col 37}{space 1}   -2.21{col 46}{space 3}0.027{col 54}{space 4}-.0085921{col 67}{space 3} -.000507
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} 4.030596{col 26}{space 2} .0941444{col 37}{space 1}   42.81{col 46}{space 3}0.000{col 54}{space 4} 3.845895{col 67}{space 3} 4.215298
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}{txt}({res}est2{txt} stored)
+(7 missing values generated)
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{txt}{sf}{ul off}(2,341 real changes made)
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{txt}{sf}{ul off}{res}
+{txt}{hline 44}
+{txt}                      (1)             (2)   
+{txt}                  usetech       usetechln   
+{txt}                     b/se            b/se   
+{txt}{hline 44}
+{txt}age         {res}       -0.186**        -0.005*  {txt}
+            {res}      (0.071)         (0.002)   {txt}
+{txt}_cons       {res}       63.267***        4.031***{txt}
+            {res}      (3.253)         (0.094)   {txt}
+{txt}{hline 44}
+{txt}R-Sqaured   {res}        0.005           0.004   {txt}
+{txt}N           {res}     1406.000        1231.000   {txt}
+{txt}{hline 44}
+{res}
