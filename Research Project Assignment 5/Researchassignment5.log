@@ -3,7 +3,7 @@
        log:  C:\Users\User\Documents\GRAD STATS LAB SEM 2\Soc211 Assignments\Re
 > search Project Assignment 5\Researchassignment5.log
   log type:  text
- opened on:  16 Apr 2024, 12:08:24
+ opened on:  16 Apr 2024, 12:27:32
 
 -------------------------------------------------------------------------------
 natenvir                                     improving & protecting environment
@@ -159,8 +159,6 @@ Right-lean~g        -0.28 ***        -1.30 ***        -0.28 ***
                    (0.03)           (0.15)           (0.03)    
 Other               -0.26 **         -1.24 ***        -0.26 ** 
                    (0.09)           (0.37)           (0.09)    
-_cons                0.81 ***         1.42 ***                 
-                   (0.02)           (0.11)                     
 ---------------------------------------------------------------
 N                    1145             1145             1145    
 ---------------------------------------------------------------
